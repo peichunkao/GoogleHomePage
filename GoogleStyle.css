@@ -113,8 +113,6 @@ table {
   top:2.5px;
   left:10px;
   display: inline;
-  width:40px;
-  height:35px;
 }
 
 .magnifier svg{
@@ -165,10 +163,6 @@ table {
   margin:0px 16px;
   height:36px;
   cursor:pointer;
-}
-
-.bottom {
-  
 }
 
 .qrcode {
